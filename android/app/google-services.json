@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055293130977",
+    "firebase_url": "https://web-quiz-7595d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "web-quiz-7595d",
+    "storage_bucket": "web-quiz-7595d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055293130977:android:44d3950a8276653516cfa0",
+        "android_client_info": {
+          "package_name": "webquiz.moazmar.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055293130977-uqcoleinlhddfu55nv5spgvaqo9fpuqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "webquiz.moazmar.com",
+            "certificate_hash": "5347fa490ba3fdc8e014d8595c6546b24754489f"
+          }
+        },
+        {
+          "client_id": "1055293130977-91q3ra92btepsku7j4j1ubmr0lkm2nln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoqdNhJe8SDTG-i-1_1FcUKoZghXA6vEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055293130977-91q3ra92btepsku7j4j1ubmr0lkm2nln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
